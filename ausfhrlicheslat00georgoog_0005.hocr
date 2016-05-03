@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ausfhrlicheslat00georgoog/ausfhrlicheslat00georgoog_0005.png"; bbox 0 0 1094 1644; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 371 191 686 219">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 371 191 686 219">
+     <span class='ocr_line' id='line_1_1' title="bbox 371 191 686 219; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 371 191 489 219; x_wconf 80' lang='lat' dir='ltr'>AUSFU</span> <span class='ocrx_word' id='word_1_2' title='bbox 492 194 686 219; x_wconf 83' lang='lat' dir='ltr'><strong>HHHHHHHH</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 258 283 783 312">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 258 283 783 312">
+     <span class='ocr_line' id='line_1_2' title="bbox 258 283 783 312; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 258 283 467 312; x_wconf 77' lang='lat' dir='ltr'>DEUTSOH</span> <span class='ocrx_word' id='word_1_4' title='bbox 470 285 604 312; x_wconf 86' lang='lat'><strong>------</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 607 284 783 312; x_wconf 81' lang='lat' dir='ltr'>NISOHES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 142 369 900 452">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 142 369 900 452">
+     <span class='ocr_line' id='line_1_3' title="bbox 142 369 900 452; baseline 0.001 -23"><span class='ocrx_word' id='word_1_6' title='bbox 142 369 900 452; x_wconf 56' lang='lat' dir='ltr'><strong>HANDWORTERBUOH</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 101 1510 995 1513">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 101 1510 995 1513">
+     <span class='ocr_line' id='line_1_4' title="bbox 101 1510 995 1513; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 101 1510 995 1513; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
